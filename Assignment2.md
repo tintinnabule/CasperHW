@@ -1,6 +1,7 @@
 1) Go to the Google Homepage and create a jQuery selector to select the image.
 
 $("#hplogo") 
+
     img id="hplogo" width="269" height="95" onload="window.lol&&lol()" style="padding-top:112px" src="/images/srpr/logo11w.png" alt="Google">
 
 2) Go to the MOMA homepage and select the today's hours (aka the underlined section 10:30 a.m.-5:30pm). Note you will have to load jQuery in this page:
