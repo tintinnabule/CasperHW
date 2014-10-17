@@ -21,8 +21,7 @@ $("h2")
 
 5) Go to the SF Gate site and change the title of the sports section in the main menu to "Sports Hour"
 
-this doesn't work: $(".subMenuLink sports hdn-analytics").html("Sports Hour")
-$(".subMenuLink").html("Sports Hour") changes all the menu options to Sports Hour
+$(".subMenuLink.sports.hdn-analytics").html("Sports Hour")
 
 what do?
 
