@@ -1,5 +1,6 @@
 1) Go to the Google Homepage and create a jQuery selector to select the image.
 
+```javascript
 $("#hplogo") 
 
     img id="hplogo" width="269" height="95" onload="window.lol&&lol()" style="padding-top:112px" src="/images/srpr/logo11w.png" alt="Google">
